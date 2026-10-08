@@ -1,0 +1,4 @@
+.footer { padding: 64px 24px 32px; border-top: 1px solid var(--border); text-align: left; }
+.footer ul { display: flex; flex-wrap: wrap; gap: 16px; list-style: none; padding: 0; margin: 16px 0 32px; }
+.footer a { color: var(--accent); }
+.footer small { color: var(--text); }
